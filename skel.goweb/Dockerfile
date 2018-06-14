@@ -1,0 +1,1 @@
+FROM skel/goweb:latest
